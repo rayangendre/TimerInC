@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rayangendre/Desktop/calpoly/cpe357/lab6/main.c
+stdio.h
+-
+signal.h
+-
+sys/time.h
+-
+unistd.h
+-
+stdlib.h
+-
+ctype.h
+-
+
